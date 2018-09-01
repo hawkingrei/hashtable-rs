@@ -1,0 +1,6 @@
+[package]
+name = "hashtable-rs"
+version = "0.1.0"
+authors = ["Wangweizhen <hawking.rei@gmail.com>"]
+
+[dependencies]
